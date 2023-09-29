@@ -14,7 +14,7 @@ Each file is meant to be run on the command line with gcc.
 ## WilsonCollatz.c
 Determine if an integer satisfies the Collatz conjecture:
 
-$$
+```math
 \begin{equation}
 F(n) = 
 \left\{
@@ -24,7 +24,7 @@ F(n) =
     \end{array}
 \right\}
 \end{equation}
-$$
+```
 The conjecture is that for all integer values of n it will eventually lead to 1.
 Sample output:
 ```
